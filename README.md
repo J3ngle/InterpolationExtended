@@ -1,0 +1,3 @@
+In this report we explore the computational powers and accuracy of polynomial interpolation. The two types of interpolation that we consider through this project are: Hermite interpolation using Newtons basis and Cubic Splines. On these interpolation polynomials we will consider are the intuitive even/ uniform meshes on the selected interval [a, b]. We will then discuss the draw backs to these types of methods as depicted in Runges counter example (f2(x)). This report is an extension of previously completed results of monomial, Lagrange and Newton basis interpolation. Graphs and other visual aids are provided to further emphasize the error analysis as well as draw backs and advantages.
+
+Please reffer to FCM_2_Project_2JEngle.pdf for full details, derivation and results.
